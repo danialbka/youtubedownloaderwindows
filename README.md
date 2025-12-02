@@ -5,6 +5,10 @@ A simple terminal-based YouTube video downloader with a beautiful TUI (Terminal 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
+## 📸 Screenshot
+
+![YouTube Downloader TUI](pic.jpeg)
+
 ## ✨ Features
 
 - 🎬 **Download YouTube videos** - Supports all YouTube URLs (youtube.com & youtu.be)
